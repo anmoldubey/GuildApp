@@ -6,8 +6,8 @@
 //  Copyright (c) 2012 Charlie Fulton. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface GuildBrowserTests : SenTestCase
+@interface GuildBrowserTests : XCTestCase
 
 @end
